@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Throw</string>
+    <string name="roll_label">Roll</string>
+    <string name="message_label">Hewwo World!</string>
+    <string name="add">Add</string>
+    <string name="reset_button">Reset</string>
+</resources>
